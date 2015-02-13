@@ -1,9 +1,9 @@
-#RubyPearls
+RubyPearls
 
 Useful for:
 
 -Networking
 
--Finding mentors and mentees,
+-Finding mentors and mentees
 
--Sharing the lastest news in tech.
+-Sharing the lastest news in tech
